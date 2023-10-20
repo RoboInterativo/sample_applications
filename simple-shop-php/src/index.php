@@ -11,11 +11,11 @@
 
   <div class="row">
     <div class="col-xl-2">
-      <p><a class="link-opacity-10" href="#">Link opacity 10</a>
+      <p><a  href="#">Link opacity 10</a>
         <span class="badge text-bg-secondary">Secondary</span>
 
       </p>
-      <p><a class="link-opacity-10" href="#">Link opacity 10</a>
+      <p><a  href="#">Link opacity 10</a>
         <span class="badge text-bg-secondary">Secondary</span>
 
       </p>
