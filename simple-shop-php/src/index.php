@@ -11,19 +11,24 @@
 
   <div class="row">
     <div class="col-xl-2">
-      <ul class="list-group">
-        <li class="list-group-item">An item</li>
-        <li class="list-group-item">A second item</li>
-        <li class="list-group-item">A third item</li>
-        <li class="list-group-item">A fourth item</li>
-        <li class="list-group-item">And a fifth one</li>
-      </ul>
+      <p><a class="link-opacity-10" href="#">Link opacity 10</a>
+        <span class="badge text-bg-secondary">Secondary</span>
+
+      </p>
+      <p><a class="link-opacity-10" href="#">Link opacity 10</a>
+        <span class="badge text-bg-secondary">Secondary</span>
+
+      </p>
     </div>
     <div class="col-xl-10">col-sm-8 col-xxl-8</div>
 
   </div>
 
-</div>
+</div><p><a class="link-opacity-10" href="#">Link opacity 10</a></p>
+<p><a class="link-opacity-25" href="#">Link opacity 25</a></p>
+<p><a class="link-opacity-50" href="#">Link opacity 50</a></p>
+<p><a class="link-opacity-75" href="#">Link opacity 75</a></p>
+<p><a class="link-opacity-100" href="#">Link opacity 100</a></p>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
