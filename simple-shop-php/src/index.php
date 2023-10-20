@@ -9,7 +9,7 @@
   <body>
     <div class="container text-center">
   <div class="row">
-    <div class="col-sm-4 col-xxl-4">
+    <div class="col-xl-2">
       <ul class="list-group">
         <li class="list-group-item">An item</li>
         <li class="list-group-item">A second item</li>
@@ -18,7 +18,7 @@
         <li class="list-group-item">And a fifth one</li>
       </ul>
     </div>
-    <div class="col-sm-8">col-sm-8 col-xxl-8</div>
+    <div class="col-xl-10">col-sm-8 col-xxl-8</div>
 
   </div>
 
