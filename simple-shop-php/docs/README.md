@@ -16,8 +16,7 @@
 Страница Поиска
 Страница Корзины и Заказа
 Макет сайта:
--
-![Главная страница](https://github.com/RoboInterativo/sample_applications/blob/feature/init/simple-shop-php/docs/main_categorie.png)
+- Главная страница [Главная страница](https://github.com/RoboInterativo/sample_applications/blob/feature/init/simple-shop-php/docs/main_categorie.png)
 - Страница Информационная
 - Страница Все категории
 - Страница Категории
