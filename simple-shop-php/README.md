@@ -1,4 +1,4 @@
-## Ссылки
+## Примеры кода
 
 ```php
 
@@ -10,5 +10,5 @@ while (list($id, $name) = $result->fetch(PDO::FETCH_NUM)) {
 ?>
 
 ```
-
+## Ссылки
 https://www.php.net/manual/en/function.list.php
