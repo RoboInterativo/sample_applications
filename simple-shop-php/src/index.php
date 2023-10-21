@@ -12,6 +12,14 @@
 
   <div class="row">
     <div class="col-xl-3">
+    <?php
+    $fruits = array('fruit1'=> 'apples','fruit2'=>'oranges');  
+
+    foreach ($fruits as $key => $value)
+    {
+        $$key = $value;
+    }
+    echo $fruit1; //=apples
       <p><a  href="#">Link opacity 10</a>
         <span class="badge text-bg-secondary">Secondary</span>
 
